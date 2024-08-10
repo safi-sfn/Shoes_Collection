@@ -554,7 +554,11 @@ video {
   --tw-contain-style:  ;
 }
 
-.bg-fuchsia-600 {
+.w-36 {
+  width: 9rem;
+}
+
+.bg-black {
   --tw-bg-opacity: 1;
-  background-color: rgb(192 38 211 / var(--tw-bg-opacity));
+  background-color: rgb(0 0 0 / var(--tw-bg-opacity));
 }
